@@ -14,8 +14,8 @@
     "vless://af40509d-c9c7-47c3-97f2-07ea3ece7a5c@9ed8a8t.se4.h1clayd.click:443?type=tcp&encryption=none&security=reality&sni=9ed8a8t.se4.h1clayd.click&fp=firefox&pbk=aJ_qFu55iLaiUWJ157VIAfAf7Cc6PKbZhFIvE03nNDc&sid=1cc8aab4a9fa9280&flow=xtls-rprx-vision#Netherlands%20%C2%B7%203"
   ],
   "update": {
-    "versionCode": 5,
-    "versionName": "1.1.2",
-    "apkUrl": "https://github.com/Brailka/tracvpn-distribution/releases/download/v1.1.2/tracVPN-5-1.1.2.apk"
+    "versionCode": 6,
+    "versionName": "1.1.3",
+    "apkUrl": "https://github.com/Brailka/tracvpn-distribution/releases/download/v1.1.3/tracVPN-6-1.1.3.apk"
   }
 }
