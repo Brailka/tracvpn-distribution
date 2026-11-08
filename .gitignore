@@ -1,0 +1,4 @@
+*.keystore
+*.jks
+*.pem
+*.key
